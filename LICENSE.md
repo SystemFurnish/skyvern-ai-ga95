@@ -1,4 +1,4 @@
-# 
+# Oficial Skyvern plugins. Con protección de privacidad y UI personalizable — optimizado para el máximo rendimiento y eficiencia.
 
 
 
